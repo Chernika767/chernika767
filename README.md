@@ -1,7 +1,15 @@
 ![Header](https://github.com/Chernika767/chernika767/blob/main/assets/yH.gif)
 
 ## I'm getting to know the IT field, so I'm an aspiring quality assurance engineer, and I'm an aspiring developer in the Python programming language, Java. ⚡
-Here are some ideas to get you started:
+
+### Languages
+![SQL](https://img.shields.io/badge/-SQL-F4C430?style=flat&logo)
+![Python](https://img.shields.io/badge/-Python-F4C430?stylestyle=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F4C430?style=style=flat&logo=JavaScript)
+
+### Tools
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
