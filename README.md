@@ -1,4 +1,4 @@
-![Header](https://github.com/Chernika767/chernika767/blob/main/assets/yH.gif)
+![Header](https://github.com/Chernika767/chernika767/blob/main/assets/6E2.gif)
 
 ## I'm getting to know the IT field, so I'm an aspiring quality assurance engineer, and I'm an aspiring developer in the Python programming language, Java. ⚡
 
